@@ -10,7 +10,7 @@ Scripts that were used to design the Levenshtein based name matching models usin
 4. **random_names_fossbytes_{*}_.csv** - CSV files containing randomly generated names of different origin as mentioned in the corresponding file name. Used for artificially increasing the dataset size
 
 
-## Python Libraries Required
+## Python Libraries Used
 
 - abydos
 - python-Levenshtein
