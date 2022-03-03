@@ -7,7 +7,7 @@ Scripts that were used to design the Levenshtein based name matching models usin
 1. **1__Name_Screening__Data_Loader.ipynb** - Python notebook to read data source files and (OFAC *(TXT)*, FSF *(CSV)* and BIS Denied Persons *(TXT)* supported)
 2. **2__Name_Screening__Data_Analysis.ipynb** - Python notebook to perform analysis on the data to finalize the metrics, thresholds and solutions
 3. **3__Name_Screening__Name_Search.ipynb** - Python notebook to run query on the final dataset using the algorithm developed in the previous notebook
-4. **random_*_.csv** - CSV files containing randomly generated names of different origin as mentioned in the corresponding file name. Used for artificially increasing the dataset size
+4. **random_names_fossbytes_{*}_.csv** - CSV files containing randomly generated names of different origin as mentioned in the corresponding file name. Used for artificially increasing the dataset size
 
 
 ## Python Libraries Required
